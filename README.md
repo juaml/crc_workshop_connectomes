@@ -13,5 +13,6 @@ dataset that contains the preprocessed connectomes](https://gin.g-node.org/LeSas
 Since it is a submodule, from the root directory you can get the necessary data
 by running:
 ```sh
-datalad get aomic-fc/junifer_storage/JUNIFER_AOMIC_TSV_CONNECTOMES/ID1000/ID1000_BOLD_parccortical-Schaefer100x17FSLMNI_parcsubcortical-TianxS2x3TxMNInonlinear2009cAsym_marker-empiricalFC_moviewatching.tsv
+datalad get aomic-fc/junifer_storage/JUNIFER_AOMIC_TSV_CONNECTOMES/ID1000/ID1000_BOLD_parccortical-Schaefer100x17FSLMNI_parcsubcortical-TianxS2x3TxMNInonlinear2009cAsym_marker-empiricalFC_moviewatching.tsv.gz
+datalad get aomic-fc/junifer_storage/JUNIFER_AOMIC_TSV_CONNECTOMES/ID1000/ID1000_participants.tsv
 ```
