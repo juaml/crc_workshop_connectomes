@@ -1,0 +1,3 @@
+[submodule "aomic-fc"]
+	path = aomic-fc
+	url = https://gin.g-node.org/LeSasse/aomic-fc
